@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="check.png" alt="Banner"></a>
+  <img src="check.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm ignb123</a>!</h1>
